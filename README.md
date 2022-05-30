@@ -1,4 +1,4 @@
-![my badge](https://badgen.net/badge/hello/world/red?icon=twitter)
+![](https://badgen.net/badge/Avireni/Chandan/black?icon=github)
 
 ## Brain Tumor
 
