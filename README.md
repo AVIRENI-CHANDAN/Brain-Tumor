@@ -9,7 +9,7 @@
   <img src="https://shields.io/badge/kaggle-dataset-blue?logo=kaggle&style=for-the-badge" alt="Image err"/>
 </a>
 <a href="https://www.kaggle.com/avirenichandan/chdn-brain-tumor">
-  <img src="https://shields.io/badge/kaggle-code-blue?logo=kaggle&style=for-the-badge" alt="Image err"/>
+  <img src="https://shields.io/badge/kaggle-notebook-blue?logo=kaggle&style=for-the-badge" alt="Image err"/>
 </a>
 <a href="https://jupyter.org/">
   <img src="https://shields.io/badge/jupyter-notebook-orange?logo=jupyter&style=for-the-badge" alt="Image err"/>
