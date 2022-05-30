@@ -4,6 +4,6 @@
 
 *Project motive is to provide a support for medical detection of brain tumor using scanned images of the brain.*
 
-The dataset is taken from [![Kaggle](https://www.kaggle.com/static/images/site-logo.svg | width=100px | height=20px)](https://www.kaggle.com/datasets/jakeshbohaju/brain-tumor)
+The dataset is taken from [![Kaggle](https://www.kaggle.com/static/images/site-logo.svg {width=100px;height=20px})](https://www.kaggle.com/datasets/jakeshbohaju/brain-tumor)
 
 
