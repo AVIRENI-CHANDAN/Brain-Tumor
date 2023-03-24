@@ -1,0 +1,5 @@
+flask
+matplotlib
+pip-chill
+scikit-learn
+tensorflow

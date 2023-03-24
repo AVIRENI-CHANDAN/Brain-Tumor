@@ -1,0 +1,18 @@
+# Environment
+env/
+venv/
+.env/
+.venv/
+
+# Cache
+**/__pycache__/**
+**/.pytest_cache/**
+**/*.pyc
+
+# Editor
+.vscode/
+
+# Database files
+**/*.db
+**/*.sqlite
+**/*.sqlite3

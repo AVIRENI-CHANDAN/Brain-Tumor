@@ -1,0 +1,42 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url("bg_image.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+}
+.InputPage{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.ContentWrapper{
+    padding: 10px;
+    background-color: white;
+    mix-blend-mode: hard-light;
+    border-radius: 8px;
+}
+.ImageForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.btn{
+    padding: 10px;
+    position: relative;
+    margin: auto;
+    width: 50%;
+}
+.FormGroup{
+    margin: 10px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

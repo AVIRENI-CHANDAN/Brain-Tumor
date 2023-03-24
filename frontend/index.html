@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Brain tumor</title>
+ <link rel="stylesheet" href="{{url_for('static', filename='styles.css')}}">
+</head>
+<body>
+    <div class="InputPage">
+        <div class="ContentWrapper">
+            <form action="." method="post" enctype="multipart/form-data" class="ImageForm">
+                <div class="FormGroup">
+                    <input type="file" id="file" name="file" value="Select an image">
+                </div> 
+                <div class="FormGroup">
+                    <input type="submit" value="Upload" class="btn upload-btn">
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
